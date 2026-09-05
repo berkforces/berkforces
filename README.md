@@ -16,7 +16,7 @@ Exploit developer. Working on **Roblox**, **Discord**, **Valorant** and more —
 
 Coding is my passion. I build every project from scratch and discover methods on my own.
 
-I've been actively developing since **2018**. Programs, systems, APIs — I've learned the deepest secrets that nobody shares and share them with you strictly for educational and security research purposes. That includes Roblox, DDoS, UDMUX, Crasher, RakNet and more.
+I've been actively developing since **2018**. Programs, systems, APIs — I've learned the deepest secrets that nobody shares and share them with you strictly for educational and security research purposes. That includes Roblox, DDoS, UDMUX, Crasher, RakNet, Riot Direct and more.
 
 I'm currently **19** years old. Actively founding **10+** servers, leading the Forces team, and handling global operations — but mostly hanging around **RU x TR**. If you want access to exclusive content, follow me and join my communities.
 
